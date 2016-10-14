@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Something about my road"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Web Blog"
+description              : "An amazing blog."
 # the base hostname & protocol for your site e.g.
-#local http://127.0.0.1:4000/
+#local http://127.0.0.1:4000/ global ducdongmg.github.io
 url                      : ducdongmg.github.io
 # the subpath of your site, e.g. "/blog"
 baseurl                  : /
@@ -25,10 +25,7 @@ comments:
 # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   provider               : disqus
   disqus:
-  # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
     shortname            : ducdongmg
-  #discourse:
-   # server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   #facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -83,33 +80,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  name             : "Nguyễn Đức Đông"
+  avatar           : "bio-photo.PNG"
+  bio              : "I am a web developer"
   location         : "Somewhere"
-  email            :
+  email            : ducdong.mg@gmail.com
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
-  github           :
+  github           : https://github.com/ducdongmg
   google_plus      :
-  keybase          :
   instagram        :
-  lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/dong-nguyen-duc-4b476686?trk=hp-identity-photo
   pinterest        :
-  soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
   tumblr           :
   twitter          :
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
 
 
@@ -233,3 +221,16 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+# config for post layout
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
