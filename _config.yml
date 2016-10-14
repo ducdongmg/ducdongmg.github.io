@@ -13,7 +13,7 @@ name                     : "Web Blog"
 description              : "An amazing blog."
 # the base hostname & protocol for your site e.g.
 #local http://127.0.0.1:4000/ global ducdongmg.github.io
-url                      : ducdongmg.github.io
+url                      : https://ducdongmg.github.io
 # the subpath of your site, e.g. "/blog"
 baseurl                  : /
 # GitHub username/repo-name
