@@ -6,7 +6,9 @@ keywords: "jekyll,blog,first"
 ---
 
 # Cài đặt
-- Bạn nào muốn cài đặt từ đầu thì có thể tham khảo các bước trên trang chủ của [Jekyll](https://jekyllrb.com/docs/home/)
+- Bạn nào muốn cài đặt từ đầu thì có thể tham khảo các bước trên trang chủ của [Jekyll](https://jekyllrb.com/docs/home/).
+Môi trường cần thiết là phải có cài đặt Ruby (vì Jekyll được viết bằng Ruby). Trên windows bạn có thể tham khảo theo các bước tại [jekyll-windows](http://jekyll-windows.juthilo.com/)
+Trong quá trình cài đặt nhiều khả năng bạn sẽ gặp phải nhiều lỗi khác nhau, các bạn có thể tham khảo một vài lỗi mình ghi phía dưới và cách khắc phục.
 - Ngoài ra cũng có rất nhiều bài viết bằng tiếng việt như [Tự tạo một Blog Lập trình với Jekyll & Github Pages](http://dev.ethanify.me/misc/create-blog-with-jekyll) các bạn cũng có thể search ra rất nhiều.
 
 # Theme
@@ -20,12 +22,12 @@ keywords: "jekyll,blog,first"
 
  1. GitHub Metadata
 
-  Tại Terminal, nếu chỉ gọi jekyll serve thì có thể gặp lỗi `GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.`. Lỗi này xảy ra do server tại local của ta không có biến môi trường `$JEKYLL_GITHUB_TOKEN`. Để không gặp lỗi này nữa, ta chạy lệnh sau:
-
-  ```javascript
-  $ JEKYLL_GITHUB_TOKEN=jkghtoken jekyll serve
-```
-
-  Trong đó `jkghtoken` là 1 chuỗi bất kỳ, thế nào cũng được.
+  Tại Terminal, nếu chỉ gọi jekyll serve thì có thể gặp lỗi `GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.`. Lỗi này xảy ra do server tại local của ta không có biến môi trường `$JEKYLL_GITHUB_TOKEN` cũng như là tính bảo mật.
+  Tham khảo tại link sau để  [fix-github-metadata-error](http://knightcodes.com/miscellaneous/2016/09/13/fix-github-metadata-error.html)
 
  2. Https
+  Khi cài đặt 1 package nào đó, bạn sẽ dễ gặp lỗi đại loại `Unable to download data from https://rubygems.org/ - SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed (https://api.rubygems.org/specs.4.8.gz)`.
+  Bạn có thể làm theo cách được ghi tại [stackoverflow](http://stackoverflow.com/a/27641786)
+
+ 3. Devkit
+  Error khi bạn chưa install devkit và gặp lỗi `Please update your PATH to include build tools or download the DevKit` . Tham khảo tại [stackoverflow](http://stackoverflow.com/a/10695190)
