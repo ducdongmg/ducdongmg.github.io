@@ -49,10 +49,10 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    position: relative;
-    float: right;
+    position: fixed;
     width: $right-sidebar-width-narrow;
-    margin-left: span(0.5 of 12);
+    right: 10px;
+    top: 150px;
     z-index: 10;
   }
 
