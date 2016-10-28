@@ -2,9 +2,11 @@
 layout: single
 title:  "Dùng Jekyll làm blog"
 desc: "jekyll using"
-excerpt: "Bạn nào muốn cài đặt từ đầu thì có thể tham khảo các bước trên trang chủ của Jekyll"
-keywords: "jekyll,blog,first"
+excerpt: "Jekyll là một phần mềm được viết trên Ruby giúp tạo ra các website tĩnh"
+keywords: "jekyll, blog"
 ---
+
+Jekyll là một phần mềm được viết trên Ruby giúp tạo ra các website tĩnh từ các file Markdown hoặc html. Nó hơi khó sử dụng với người mới nhưng với việc tạo các website cá nhân, blog, trang tài liệu thì khả năng sinh web tĩnh cho phép nó đạt hiệu suất vượt trội. Bạn có thể tùy biến đủ kiểu với website của mình và lưu trữ nó trên chính Github - dịch vụ lưu trữ mã nguồn một cách hoàn toàn miễn phí. Một ưu điểm nữa là web tĩnh sẽ cho phép website của bạn miễn nhiễm với các mã độc, sự tấn công của hacker.
 
 # Cài đặt
 - Bạn nào muốn cài đặt từ đầu thì có thể tham khảo các bước trên trang chủ của [Jekyll](https://jekyllrb.com/docs/home/).
@@ -13,10 +15,8 @@ Trong quá trình cài đặt nhiều khả năng bạn sẽ gặp phải nhiề
 - Ngoài ra cũng có rất nhiều bài viết bằng tiếng việt như [Tự tạo một Blog Lập trình với Jekyll & Github Pages](http://dev.ethanify.me/misc/create-blog-with-jekyll) các bạn cũng có thể search ra rất nhiều.
 
 # Theme
- - Hiện tại có rất nhiều theme có thể sử dụng, các bạn có thể tham khảo tại [Jekyll Themes](https://github.com/jekyll/jekyll/wiki/Themes)
+ - Hiện tại có rất nhiều theme có thể sử dụng, các bạn có thể tham khảo tại [Jekyll Themes](https://github.com/jekyll/jekyll/wiki/Themes) hay trực quan hơn tại [jekyllthemes](http://jekyllthemes.org/) hoặc [themes jekyllrc](http://themes.jekyllrc.org/)
  - Blog này mình dùng theme [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes/). Các bạn có thể nhanh chóng tạo blog này bằng [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) có trên trang chủ.
-
-
 
 # Fix Bug
  Trong quá trình sử dụng Jekyll có thể các bạn sẽ gặp rất nhiều lỗi nên có thể tham khảo một vài lỗi sau:

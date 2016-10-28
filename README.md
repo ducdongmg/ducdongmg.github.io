@@ -1,6 +1,6 @@
 # [My Blog](https://ducdongmg.gihub.io)
 
-Blog này mình sử dụng Jekyll với theme là minimal-mistakes và dùng của Github page làm host
+Blog này mình sử dụng Jekyll với theme là minimal-mistakes và dùng Github page làm host
 
 Các bạn có thể tham khảo các bài viết trên [blog](https://ducdongmg.gihub.io) để tạo 1 trang blog của riêng mình.
 
