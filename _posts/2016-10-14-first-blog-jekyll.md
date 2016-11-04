@@ -4,6 +4,8 @@ title:  "Dùng Jekyll làm blog"
 desc: "jekyll using"
 excerpt: "Jekyll là một phần mềm được viết trên Ruby giúp tạo ra các website tĩnh"
 keywords: "jekyll, blog"
+categories: [blog]
+tags: [jekyll]
 ---
 
 Jekyll là một phần mềm được viết trên Ruby giúp tạo ra các website tĩnh từ các file Markdown hoặc html. Nó hơi khó sử dụng với người mới nhưng với việc tạo các website cá nhân, blog, trang tài liệu thì khả năng sinh web tĩnh cho phép nó đạt hiệu suất vượt trội. Bạn có thể tùy biến đủ kiểu với website của mình và lưu trữ nó trên chính Github - dịch vụ lưu trữ mã nguồn một cách hoàn toàn miễn phí. Một ưu điểm nữa là web tĩnh sẽ cho phép website của bạn miễn nhiễm với các mã độc, sự tấn công của hacker.
@@ -32,3 +34,9 @@ Trong quá trình cài đặt nhiều khả năng bạn sẽ gặp phải nhiề
 
  3. Devkit
   Error khi bạn chưa install devkit và gặp lỗi `Please update your PATH to include build tools or download the DevKit` . Tham khảo tại [stackoverflow](http://stackoverflow.com/a/10695190)
+
+
+<!-- reference -->
+[trucnt]: https://trucnt.com/jekyll/cai-dat-jekyll-windows/
+[trucnt jekyll]: https://trucnt.com/jekyll/tao-blog-jekyll/
+[goyllo]: https://www.goyllo.com/
