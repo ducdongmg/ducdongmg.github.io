@@ -1,0 +1,47 @@
+---
+layout: archive
+title: Categories
+permalink: /cats/
+description: "Posts listed by Catgories"
+author_profile: false
+comments: false
+---
+
+<div class="cats-wrapper">
+
+<div class='tags-list'>
+  {% assign tags_list = site.categories %}
+
+  {% if tags_list.first[0] == null %}
+    {% for tag in tags_list %}
+      <a href="#{{ tag | slugify }}" class="post-tag">
+        {{ tag }} <span class='badge'>({{ site.categories[tag].size }})</span>
+      </a>
+    {% endfor %}
+  {% else %}
+    {% for tag in tags_list %}
+      <a href="#{{ tag[0] | slugify }}" class="post-tag">
+        {{ tag[0] }} <span class='badge'>({{ tag[1].size }})</span>
+      </a>
+    {% endfor %}
+  {% endif %}
+
+  {% assign tags_list = nil %}
+</div>
+
+  <hr/>
+  <div class="tags-expo-section">
+    {% for tag in site.categories %}
+    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+    <ul class="tag-posts">
+      {% for post in tag[1] %}
+        
+      <li>
+        <span class="post-date">{{ post.date | date_to_string }}</span><a class="tag-post-title" href="{{ base_path }}{{ post.url | prepend: site.baseurl }}" title="{{ post.title | escape }}">{{ post.title | escape }}</a>
+            </li>
+      
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </div>
+</div>
