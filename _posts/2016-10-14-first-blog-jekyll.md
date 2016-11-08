@@ -40,3 +40,6 @@ Trong quá trình cài đặt nhiều khả năng bạn sẽ gặp phải nhiề
 [trucnt]: https://trucnt.com/jekyll/cai-dat-jekyll-windows/
 [trucnt jekyll]: https://trucnt.com/jekyll/tao-blog-jekyll/
 [goyllo]: https://www.goyllo.com/
+[mademistakes]: https://mademistakes.com/articles/using-jekyll-2016/
+[ricmclaughlin2]: http://slides.com/ricmclaughlin/githubportfolio2#/4
+[ricmclaughlin1]: http://slides.com/ricmclaughlin/githubportfolio1-1-5#/22
