@@ -19,6 +19,12 @@ Trong quá trình cài đặt nhiều khả năng bạn sẽ gặp phải nhiề
 # Theme
  - Hiện tại có rất nhiều theme có thể sử dụng, các bạn có thể tham khảo tại [Jekyll Themes](https://github.com/jekyll/jekyll/wiki/Themes) hay trực quan hơn tại [jekyllthemes](http://jekyllthemes.org/) hoặc [themes jekyllrc](http://themes.jekyllrc.org/)
  - Blog này mình dùng theme [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes/). Các bạn có thể nhanh chóng tạo blog này bằng [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) có trên trang chủ.
+ - Khi get theme về và muốn chạy thử trước trên local thì bạn trước tiên cần phải có cài gói `bundle` trên máy:  
+ ```
+ node install bundle
+ ```
+ Sau đó từ command line, bạn vào thư mục gốc của theme và run command `bundle install`. Lệnh này sẽ cài đặt các gói gem bị thiếu.  
+ Vậy là xong, chúng ta có thể run command `bundle exec jekyll serve --force_polling` hay ngắn gọn hơn là `jekyll serve` để xem kết quả. Blog trên local của bạn sẽ có địa chỉ `localhost:4000`
 
 # Fix Bug
  Trong quá trình sử dụng Jekyll có thể các bạn sẽ gặp rất nhiều lỗi nên có thể tham khảo một vài lỗi sau:
