@@ -6,11 +6,12 @@ excerpt: "Login vào các mạng xã hội bằng Oauth.io – Log in with Anyth
 keywords: "Oauth"
 header:
   teaser: seed-to-giant.png
-categories: [blog]
-tags: [markdown]
+categories: [social]
+tags: [auth, login]
 ---
 {% include toc %}
 
+Bạn có thể xem bản gốc tiếng anh tại [đây](https://www.sitepoint.com/social-logins-with-oauth-io-log-in-with-anything-anywhere/)
 
 Users today often like the idea of logging into websites with a single click using one of their social accounts.
 
