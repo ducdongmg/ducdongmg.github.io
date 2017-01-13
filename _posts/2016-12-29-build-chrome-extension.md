@@ -13,17 +13,19 @@ tags: [chrome, extension]
 
 Bạn có thể xem bản gốc tiếng anh tại [đây](https://www.webcodegeeks.com/javascript/build-chrome-extension/)
 
-Chrome extensions allow you to add a new functionality to Chrome without having any knowledge about the actual browser source code. 
-New extensions can be implemented using `HTML`, `CSS` and `JavaScript`. In the following example, we implement a word counter extension which helps to count characters, 
-words, syllables and sentences of a selected text in the page. It also calculates the Flesch readability score of the text. 
+Chrome extensions cho phép bạn add một chức năng mới vào Chrome mà không cần phải biết source code của browser như thế nào. 
+Extensions có thể thực hiện bằng `HTML`, `CSS` và `JavaScript`. Trong ví dụ bên dưới, chúng ta sẽ thực hiện tạo 1 counter extension giúp đếm characters, 
+words, syllables và sentences của những đoạn text được bôi trong trang. It also calculates the Flesch readability score of the text. 
 The Flesch readability score distinguishes the level of understanding of a text for audiences. If the score is less than 30, the text is distinguished difficult. 
 If the score is greater than 90, the text is distinguished easy and if it is between 30 and 90 it is moderate.
 
-### 1. Building a new extension
-First, create a directory to implement the extension. Then, create a manifest file named `manifest.json`. This manifest is nothing more than a metadata file in JSON format 
-that contains properties like extension’s name, description, version number and so on. At a high level, it will be used to declare to Chrome what the extension is going to do, 
-and what permissions it requires in order to do those things.
-In this example’s manifest, we declare a browser action, the activeTab permission to see the URL of the current tab, and the host permission to access the external Google Image search API.
+### 1. Build một extension mới
+Đầu tiên, ta sẽ tạo 1 directory để thực thi extension. Sau đó, tạo một file manifest với tên `manifest.json`. File manifest này thì không có gì hơn là 1 file metadata dưới dạng 
+JSON format, nó sẽ chứa các thông tin như tên extension, mô tả, số version, .... Ở một cấp độ cao hơn, nó sẽ báo cho Chrome biết extension này sẽ làm gì và những quyền hạn mà nó
+cần đẻ thực hiện những điều đó.
+
+Trong ví dụ này, file manifest chúng ta sẽ khai báo browser action, activeTab permission để thấy được URL của tab hiện tại, và host permission để truy cập vào bên trong 
+Google Image search API.
 
 ```
 {
