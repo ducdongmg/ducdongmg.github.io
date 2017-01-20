@@ -1,0 +1,21 @@
+---
+layout: single
+title:  "Những ngôi sao của JavaScript năm 2016"
+desc: "Những ngôi sao của JavaScript năm 2016"
+excerpt: "Những ngôi sao của JavaScript năm 2016"
+keywords: "JavaScript, js"
+header:
+  teaser: seed-to-giant.png
+categories: [language]
+tags: [JavaScript]
+---
+
+The JavaScript community is going full speed on innovation, what was once trendy becomes old-fashioned a few months later.
+
+2016 is over, you may think you missed something important? Don't worry, we are going to review what were the main trends.
+
+Let's see by the numbers which projects got traction in 2016, by comparing the numbers of stars added on Github, over the last 12 months.
+
+In 2015, React was the king and Redux won by storm the battle of Flux implementations. Who are the 2016 JavaScript rising stars ?
+
+<div style="text-align: right">Theo <a href="https://risingstars2016.js.org/">bestof.js.org</a></div>
