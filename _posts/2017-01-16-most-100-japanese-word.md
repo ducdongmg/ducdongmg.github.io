@@ -10,11 +10,11 @@ categories: [language]
 tags: [japanese]
 ---
 
-Say you're going to Japan. Then you realize that you don't know any Japanese words.
+Bạn dự định đến Nhật nhưng chợt nhận ra rằng mình không biết bất kỳ từ nào cả.
 
-Or, you're learning Japanese, and you want to make sure you know some of the most important words in the Japanese language.
+Hoặc bạn đang học tiếng Nhật và muốn chắc rằng bạn muốn biết những những từ nào là quan trọng nhất trong tiếng Nhật.
 
-This is a list for you.
+Đây là danh sách cho bạn.
 
 These 100 Japanese words will get you through an untold number of situations, problems, and feelings. I'm not saying that there are not other important words out there, 
 but I do think this list of 100 Japanese words will get you really, really far, if for some reason you are limiting yourself to a mere 100 words. If you want to go beyond that, 
