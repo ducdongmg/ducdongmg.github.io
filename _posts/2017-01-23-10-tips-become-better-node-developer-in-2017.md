@@ -228,9 +228,13 @@ req.on('error', (error) => {
 ```
 
 ### Know Your npm
-Many Node and event front-end developers know that there is --save (for npm install) which will not only install a module but create an entry in package.json with the version of the module. Well, there’s also --save-dev, for devDependencies (stuff you don’t need in production). But did you know you can just use -S and -D instead of --save and --save-dev? Yes, you can.
+Many Node and event front-end developers know that there is --save (for npm install) which will not only install a module but create an entry 
+in package.json with the version of the module. Well, there’s also --save-dev, for devDependencies (stuff you don’t need in production). 
+But did you know you can just use -S and -D instead of --save and --save-dev? Yes, you can.
 
-And while you’re in the module installation mode, go ahead and remove those ^ signs which -S and -D will create for you. They are dangerous because they’ll allow npm install (or its shortcut npm i) to pull the latest minor (second digit in the semantic versioning) version from npm. For example, v6.1.0 to v6.2.0 is a minor release.
+And while you’re in the module installation mode, go ahead and remove those ^ signs which -S and -D will create for you. 
+They are dangerous because they’ll allow npm install (or its shortcut npm i) to pull the latest minor (second digit in the semantic versioning) version from npm. 
+For example, v6.1.0 to v6.2.0 is a minor release.
 
 npm team believes in semver, but you should not. What I mean is that they put caret ^ because they trust open source developers to not introduce breaking changes in minor releases. No one sane should trust it. Lock your versions. Even better, use shrinkwrap: npm shrinkwrap which will create a new file with exact versions of dependencies of dependencies.
 
