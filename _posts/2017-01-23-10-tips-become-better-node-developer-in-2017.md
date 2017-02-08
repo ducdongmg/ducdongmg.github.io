@@ -6,8 +6,8 @@ excerpt: "10 lời khuyên để trở thành Node Developer tốt hơn trong n�
 keywords: "JavaScript, js, nodejs"
 header:
   teaser: seed-to-giant.png
-categories: [language]
-tags: [JavaScript]
+categories: [javascript]
+tags: [javascript]
 ---
 {% include toc %}
 
