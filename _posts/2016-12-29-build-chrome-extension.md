@@ -178,3 +178,4 @@ Note: The manifest file is parsed only once the extension is loaded. If you want
 ### 3. Source code
 You can download the source code here. Also, the published version of the chrome extension can be found here: https://chrome.google.com/webstore/detail/word-counter/cgfjdjopdhopjgbcinafnfpcpjfeaidm
 
+<div style="text-align: right">Theo <a href="https://www.webcodegeeks.com/javascript/build-chrome-extension/">webcodegeeks</a></div>
