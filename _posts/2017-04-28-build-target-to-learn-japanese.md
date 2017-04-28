@@ -1,16 +1,16 @@
 ---
 layout: single
-title:  "LỘ TRÌNH HỌC KANJI CHO NGƯỜI CHƯA BIẾT GÌ"
-desc: "hướng dẫn Lộ Trình Học Chữ Kanji"
-excerpt: "hướng dẫn Lộ Trình Học Chữ Kanji"
-keywords: "film, company"
+title:  "Xây dựng mục tiêu học tập tiếng Nhật"
+desc: "Xây dựng mục tiêu học tập tiếng Nhật"
+excerpt: "Xây dựng mục tiêu học tập tiếng Nhật"
+keywords: "target, japan"
 categories: [japan]
-tag: [kanji]
+tag: [target, japanese]
 ---
 
 # Xây dựng mục tiêu học tập tiếng Nhật
 
-Xây dựng mục tiêu học tập tiếng Nhật. Có bao giờ bạn tự hỏi tại sao mình học tiếng Nhật hoài không giỏi lên được, tại sao mấy bạn khác học lại lên nhanh mà mình thì cứ dậm chân tại chỗ? Khi đặt ra câu hỏi đó, chắc các bạn sẽ liệt kê ra hàng loạt các lý do : tố chất (nó thông minh hơn mình, nó có năng khiếu…), phương pháp (chắc nó có phương pháp học hay mà mình không biết…), sự chăm chỉ (chắc nó phải cày ngày cày đêm, nó chăm chỉ hơn mình…), và thường thì nhiều bạn cũng chỉ phân tích tới đó rồi dừng lại, và mọi việc lại trở lại như nó vốn vậy, không có gì thay đổi ?
+Có bao giờ bạn tự hỏi tại sao mình học tiếng Nhật hoài không giỏi lên được, tại sao mấy bạn khác học lại lên nhanh mà mình thì cứ dậm chân tại chỗ? Khi đặt ra câu hỏi đó, chắc các bạn sẽ liệt kê ra hàng loạt các lý do : tố chất (nó thông minh hơn mình, nó có năng khiếu…), phương pháp (chắc nó có phương pháp học hay mà mình không biết…), sự chăm chỉ (chắc nó phải cày ngày cày đêm, nó chăm chỉ hơn mình…), và thường thì nhiều bạn cũng chỉ phân tích tới đó rồi dừng lại, và mọi việc lại trở lại như nó vốn vậy, không có gì thay đổi ?
 
 Để giải quyết được vấn đề, chúng ta cần phải phân tích sâu xa hơn, phải thay đổi cách suy nghĩ, phải đưa ra giải pháp cụ thể… rồi thực hiện giải pháp đó tới nơi tới chốn. Nếu bạn muốn phát triển, nếu bạn muốn học tốt hơn, nếu bạn muốn thoát khỏi tình trạng hiện tại, hãy cũng Tự học online đi tìm hiểu lần lượt các vấn đề, đưa ra giải pháp, và tất nhiên quan trọng nhất là việc bạn có thực hiện giải pháp đó hay không, bởi không ai làm hộ ai được, không ai học hộ ai được ?
 
