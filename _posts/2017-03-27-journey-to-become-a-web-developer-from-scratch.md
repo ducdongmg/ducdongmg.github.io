@@ -127,9 +127,7 @@ I found Scotch.io’s courses on [Grunt](https://scotch.io/tutorials/a-simple-gu
 
 Once I covered the fundamentals of web development, I was ready for my first web development interview for an entry level position. I won’t go into details about the interview since this isn’t this article’s main focus. But I will say that I was told my relatively strong JavaScript knowledge help me secure the position. (Thanks, Eloquent JavaScript!)
 
-I have to say, I was quite nervous on my first project. It involved making reusable web components with HTML, CSS and JavaScript, along with Bootstrap, Sass, Grunt as tooling. T
-
-he two biggest mistakes I found at first were:
+I have to say, I was quite nervous on my first project. It involved making reusable web components with HTML, CSS and JavaScript, along with Bootstrap, Sass, Grunt as tooling. The two biggest mistakes I found at first were:
 
 1.  **Fear of failure.** Because I was the new guy, I was constantly in fear of my code being wrong or poorly made, so I spent a lot of time double-checking everything and adhered to coding best practices. Because of this, I rarely attempted solutions in creative new ways because of my fear that it might not work correctly at the end. This effectively shut down my drive to learn new things.
 2.  **Doing things because “X” person who knows better than me said so.** I did this a lot at first. While not completely wrong, doing things in a certain way only because “X” expert on the matter said so — without knowing why — lead to me not really knowing when to why things were done the way they were. I soon learned that there were exceptions to everything, and that **you always should know the reason behind best practices.**
