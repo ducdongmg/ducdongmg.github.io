@@ -127,4 +127,4 @@ Sau khi tìm được căn phòng ưng ý, các bạn hãy liên hệ số đi�
 
 ![Happy house](https://sekovn.files.wordpress.com/2015/12/happy-house.gif?w=640)
 
-<div style="text-align: right">Theo <a href="http://vijaexpress.com/huong-dan-tim-va-thue-nha-tai-nhat-ban/">vijaexpress</a></div>
+<div style="text-align: right">Theo <a href="https://sekovn.com/2015/12/18/huong-dan-cach-tim-thue-nha-o-tai-nhat/">sekovn</a></div>
