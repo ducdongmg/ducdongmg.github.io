@@ -1,15 +1,15 @@
 ---
 layout: single
-title:  "LỘ TRÌNH HỌC KANJI CHO NGƯỜI CHƯA BIẾT GÌ"
-desc: "hướng dẫn Lộ Trình Học Chữ Kanji"
-excerpt: "hướng dẫn Lộ Trình Học Chữ Kanji"
+title:  "Lập kế hoạch học tập tiếng Nhật"
+desc: "Lập kế hoạch học tập tiếng Nhật"
+excerpt: "Lập kế hoạch học tập tiếng Nhật"
 keywords: "film, company"
 categories: [japan]
 tag: [target, plan, japanese]
 ---
 # Lập kế hoạch học tập tiếng Nhật
 
-Sau khi đã [xây dựng mục tiêu học tập tiếng Nhật](/2017-04-28-build-target-to-learn-japanese/) rõ ràng, đủ thách thức, trong bài viết này VijaExpress xin cùng các bạn đi xây dựng 1 kế hoạch học tập tiếng Nhật, các bạn có thể áp dụng cho 4 năm đại học, cho từng năm hoặc cho từng lần luyện thi năng lực tiếng Nhật.
+Sau khi đã [xây dựng mục tiêu học tập tiếng Nhật](/japan/build-target-to-learn-japanese/) rõ ràng, đủ thách thức, trong bài viết này VijaExpress xin cùng các bạn đi xây dựng 1 kế hoạch học tập tiếng Nhật, các bạn có thể áp dụng cho 4 năm đại học, cho từng năm hoặc cho từng lần luyện thi năng lực tiếng Nhật.
 
 **Tại sao cần phải Lập kế hoạch học tập tiếng Nhật :**
 
