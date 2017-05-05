@@ -2,7 +2,7 @@
 layout: single
 title:  "LỘ TRÌNH HỌC KANJI CHO NGƯỜI CHƯA BIẾT GÌ"
 desc: "hướng dẫn Lộ Trình Học Chữ Kanji"
-excerpt: "hướng dẫn Lộ Trình Học Chữ Kanji"
+excerpt: "Như các bạn đã theo dõi video hướng dẫn Lộ Trình Học Chữ Kanji"
 keywords: "film, company"
 categories: [japan]
 tag: [kanji]

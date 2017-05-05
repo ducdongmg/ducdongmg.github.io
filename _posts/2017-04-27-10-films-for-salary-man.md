@@ -2,7 +2,7 @@
 layout: single
 title:  "10 bộ phim đem lại nguồn cảm hứng bất tận cho dân văn phòng"
 desc: "10 bộ phim đem lại nguồn cảm hứng bất tận cho dân văn phòng"
-excerpt: "10 bộ phim đem lại nguồn cảm hứng bất tận cho dân văn phòng"
+excerpt: "Khi Vui Vẻ mới vô làm trong văn phòng, cảm giác tò mò muốn tìm hiểu thế giới công sở đưa Vui Vẻ tới những bộ phim mang lại nguồn cảm hứng bất tận cho dân văn phòng. Nhân hôm nay cuối tuần, Vui Vẻ chia sẻ những bộ phim hay nhất về thế giới công sở để các bạn cùng giải trí nha."
 keywords: "film, company"
 categories: [company]
 tag: [film]

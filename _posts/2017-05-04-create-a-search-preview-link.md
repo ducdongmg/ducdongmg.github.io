@@ -2,7 +2,7 @@
 layout: single
 title:  "LMGTFY là gì và tại sao bạn nên dùng nó ngay?"
 desc: "LMGTFY là gì và tại sao bạn nên dùng nó ngay?"
-excerpt: "LMGTFY là gì và tại sao bạn nên dùng nó ngay?"
+excerpt: "LMGTFY là cách thú vị để bạn đưa ra câu trả lời cho những câu hỏi, bất kỳ ai cũng có thể dễ dàng tìm thấy kết quả trên Google, từ bạn bè."
 keywords: "LMGTFY, google, search, short"
 categories: [google]
 tag: [google, search]
