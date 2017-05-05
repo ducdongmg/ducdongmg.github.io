@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "LMGTFY là gì và tại sao bạn nên dùng nó ngay?"
-desc: "LMGTFY là gì và tại sao bạn nên dùng nó ngay?"
-excerpt: "LMGTFY là gì và tại sao bạn nên dùng nó ngay?"
+title:  "Top 20 mẹo và thủ thuật Google có thể bạn chưa biết"
+desc: "Top 20 mẹo và thủ thuật Google có thể bạn chưa biết"
+excerpt: "Google có rất nhiều thứ hay ho mà có lẽ bạn vẫn chưa khám phá ra hết, hãy cùng xem 20 tính năng hữu ích sau nhé"
 keywords: "LMGTFY, google, search, short"
 categories: [google]
 tag: [google, search]
