@@ -2,7 +2,7 @@
 layout: single
 title:  "Tìm nơi ở tại Nhật"
 desc: "Tìm nơi ở tại Nhật"
-excerpt: "Tìm nơi ở tại Nhật"
+excerpt: "Việc tìm nơi ở tại các thành phố lớn như Tokyo cũng là cả 1 vấn đề kể cả đối với người Nhật. Người Nhật khi đi tìm thuê nhà cũng phải vất vả đi khắp nơi. Hơn nữa, cũng có những chủ nhà và những công ty bất động sản không muốn cho người nước ngoài thuê nhà, nhưng bạn hãy thử can đảm đi tìm thử xem."
 keywords: "japanese, house"
 categories: [japan]
 tag: [house]

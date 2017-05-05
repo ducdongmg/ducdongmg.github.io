@@ -2,7 +2,7 @@
 layout: single
 title:  "Hướng dẫn tìm và thuê nhà tại Nhật Bản"
 desc: "Hướng dẫn tìm và thuê nhà tại Nhật Bản"
-excerpt: "Hướng dẫn tìm và thuê nhà tại Nhật Bản"
+excerpt: "Vì nhiều lý do như chuyển trường, phí KTX quá cao, địa điểm ở hiện tại không phù hợp, giá phòng quá mắc, v.v… Đa phần các bạn sẽ chuyển nhà sau một thời gian sống ở Nhật. Với hướng dẫn dưới đây, hi vọng các bạn sẽ có thể chủ động trong việc tìm nhà ở phù hợp với sở thích và yêu cầu mình mong muốn"
 keywords: "house, japan"
 categories: [japan]
 tag: [house, rent, japan]
