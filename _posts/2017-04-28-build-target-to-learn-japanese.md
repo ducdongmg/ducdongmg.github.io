@@ -2,7 +2,7 @@
 layout: single
 title:  "Xây dựng mục tiêu học tập tiếng Nhật"
 desc: "Xây dựng mục tiêu học tập tiếng Nhật"
-excerpt: "Xây dựng mục tiêu học tập tiếng Nhật"
+excerpt: "Có bao giờ bạn tự hỏi tại sao mình học tiếng Nhật hoài không giỏi lên được, tại sao mấy bạn khác học lại lên nhanh mà mình thì cứ dậm chân tại chỗ? Khi đặt ra câu hỏi đó, chắc các bạn sẽ liệt kê ra hàng loạt các lý do"
 keywords: "target, japan"
 categories: [japan]
 tag: [target, japanese]

@@ -2,7 +2,7 @@
 layout: single
 title:  "Lập kế hoạch học tập tiếng Nhật"
 desc: "Lập kế hoạch học tập tiếng Nhật"
-excerpt: "Lập kế hoạch học tập tiếng Nhật"
+excerpt: "Sau khi đã [xây dựng mục tiêu học tập tiếng Nhật](/japan/build-target-to-learn-japanese/) rõ ràng, đủ thách thức, trong bài viết này VijaExpress xin cùng các bạn đi xây dựng 1 kế hoạch học tập tiếng Nhật, các bạn có thể áp dụng cho 4 năm đại học, cho từng năm hoặc cho từng lần luyện thi năng lực tiếng Nhật."
 keywords: "film, company"
 categories: [japan]
 tag: [target, plan, japanese]
