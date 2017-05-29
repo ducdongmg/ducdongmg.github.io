@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title:  "Tăng cơ hội trúng tuyển với 18 lưu ý khi viết hồ sơ xin việc Rirekisho"
@@ -6,7 +5,7 @@ desc: "Tăng cơ hội trúng tuyển với 18 lưu ý khi viết hồ sơ xin v
 excerpt: "Tăng cơ hội trúng tuyển với 18 lưu ý khi viết hồ sơ xin việc Rirekisho"
 keywords: "japan, cv, ho so xin viec, job"
 categories: [japan]
-tag: [japan, cv, job]
+tag: [japan, cuộc sống, job]
 ---
 
 **Mỗi hồ sơ xin việc chỉ có 3 giây đầu tiên để gây ấn tượng với nhà tuyển dụng.**

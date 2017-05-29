@@ -5,7 +5,7 @@ desc: "5 thủ tục cần làm khi mới đến Nhật"
 excerpt: "Lần đầu tiên đến Nhật du học, bạn không biết mình cần hoàn tất những thủ tục gì để có thể an tâm học hành trong thời gian sắp tới? Đừng lo, trong số này Kilala sẽ hướng dẫn những bước đầu cho bạn!"
 keywords: "japan, phone, sim, bảo hiểm, bank"
 categories: [japan]
-tag: [japan, bank]
+tag: [japan, cuộc sống]
 ---
 
 Lần đầu tiên đến Nhật du học, bạn không biết mình cần hoàn tất những thủ tục gì để có thể an tâm học hành trong thời gian sắp tới? Đừng lo, trong số này Kilala sẽ hướng dẫn những bước đầu cho bạn!
