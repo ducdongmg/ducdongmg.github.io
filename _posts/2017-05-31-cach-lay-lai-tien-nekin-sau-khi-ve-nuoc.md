@@ -42,19 +42,19 @@ tag: [japan, cuộc sống, lương]
 <span style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">  Về nguyên tắc thì người muốn làm thủ tục lấy lại nenkin phải thỏa mãn cả 4 điều kiện sau:  
 </span><span style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">(Thời gian có thể làm thủ tục là từ khi về nước đến khi làm thủ tục phải trong vòng 2 năm (24 tháng))</span>
 
-<span style="color: #000000; font-size: 12pt;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Là người không mang quốc tịch Nhật Bản</span>  
-<span style="color: #000000; font-size: 12pt;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Thời gian đã nộp tiền nenkin trên 6 tháng</span>  
-<span style="color: #000000; font-size: 12pt;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Hiện tại không sống ở Nhật</span>  
-<span style="color: #000000; font-size: 12pt;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Chưa từng có quyền lợi nhận tiện nenkin (chưa từng nhận tiền nenkin bao gồm cả tiền trợ cấp thương tật)  
+<span class="icon_size" style="color: #000000; font-size: 12pt;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Là người không mang quốc tịch Nhật Bản</span>  
+<span class="icon_size" style="color: #000000; font-size: 12pt;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Thời gian đã nộp tiền nenkin trên 6 tháng</span>  
+<span class="icon_size" style="color: #000000; font-size: 12pt;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Hiện tại không sống ở Nhật</span>  
+<span class="icon_size" style="color: #000000; font-size: 12pt;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Chưa từng có quyền lợi nhận tiện nenkin (chưa từng nhận tiền nenkin bao gồm cả tiền trợ cấp thương tật)  
 </span><span style="color: #000000; font-size: 12pt;">(Tiền trợ cấp thương tật (障害手当 しょうがいてあて) ở đây là gì? Trong thời gian bạn làm việc mà không may phát bệnh không có khả năng lao động thì nếu làm thủ tục sẽ được nhận.)  
 </span>  
 <span style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">![](http://tomonivj.jp/resources/2017/01/money-300x200.jpg)</span>  
 **<span style="font-size: 12pt; font-family: tahoma, arial, helvetica, sans-serif; color: #000000;">■　Các giấy tờ cần thiết khi làm thủ tục:</span>**  
-<span style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Bản photo hộ chiếu (bao gồm cả trang có đóng dấu ngày xuất cảnh rời khỏi Nhật cuối cùng)  
-</span><span style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Giấy tờ chứng nhận bạn không sống ở Nhật  
-</span><span style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Giấy tờ có thể xác nhận được thông tin tài khoản ngân hàng bao gồm “Tên ngân hàng”, “Tên chi nhánh”,“Địa chỉ chi nhánh”, “Số tài khoản” bạn đang sở hữu ở Việt Nam có dấu chứng nhận của ngân hàng</span><span style="color: #000000;">.</span><span style="color: #000000; font-size: 12pt;">(Nên mở tài khoản ở những ngân hàng lớn có thể nhận tiền từ Nhật)  
-</span><span style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Sổ tay nenkin (年金手帳)  
-</span><span style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Đơn xin hoàn trả tiền nenkin (脱退一時金請求書)  
+<span class="icon_size" style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Bản photo hộ chiếu (bao gồm cả trang có đóng dấu ngày xuất cảnh rời khỏi Nhật cuối cùng)  
+</span><span class="icon_size" style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Giấy tờ chứng nhận bạn không sống ở Nhật  
+</span><span class="icon_size" style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Giấy tờ có thể xác nhận được thông tin tài khoản ngân hàng bao gồm “Tên ngân hàng”, “Tên chi nhánh”,“Địa chỉ chi nhánh”, “Số tài khoản” bạn đang sở hữu ở Việt Nam có dấu chứng nhận của ngân hàng</span><span style="color: #000000;">.</span><span style="color: #000000; font-size: 12pt;">(Nên mở tài khoản ở những ngân hàng lớn có thể nhận tiền từ Nhật)  
+</span><span class="icon_size" style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Sổ tay nenkin (年金手帳)  
+</span><span class="icon_size" style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Đơn xin hoàn trả tiền nenkin (脱退一時金請求書)  
 </span><span style="font-size: 12pt; color: #0000ff; font-family: tahoma, arial, helvetica, sans-serif;">[Click vào đây để đọc hướng dẫn và download form](http://www.nenkin.go.jp/service/jukyu/todoke/kyotsu/20150406.files/0000027196YWTHf4U37V.pdf)</span>
 
 <span style="font-size: 12pt; color: #000000; font-family: tahoma, arial, helvetica, sans-serif;">　Sau khi chuẩn bị xong đầy đủ các giấy tờ cầ thiết theo yêu cầu của cơ quan nenkin của Nhật Bản thì bạn có thể gửi EMS đến cho cơ quan này theo địa chỉ sau:</span>

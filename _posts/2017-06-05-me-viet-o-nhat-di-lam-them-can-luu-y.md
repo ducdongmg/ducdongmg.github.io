@@ -29,9 +29,9 @@ Mục lục:
 
 <span style="font-size: 12pt; color: #000000;">Với các gia đình mà chỉ có chồng làm full-time, còn vợ chỉ ở nhà nội trợ và túc tắc kiếm thêm, để giảm bớt gánh nặng cho người chồng, Nhật có 2 chế độ rất đặc trưng, đó là:</span>
 
-<span style="font-size: 12pt; color: #000000;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Khấu trừ thuế khi có người phụ thuộc kinh tế (mà mình đã đề cập trong bài <span style="color: #0000ff;">**[xin giảm thuế do có người phụ thuộc](http://tomonivj.jp/tim-hieu-ve-thu-tuc-xin-giam-thue-cho-nguoi-di-lam-%E6%89%B6%E9%A4%8A%E6%8E%A7%E9%99%A4%E7%94%B3%E8%AB%8B/)**</span> trước đó )</span>
+<span class="icon_size" style="font-size: 12pt; color: #000000;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Khấu trừ thuế khi có người phụ thuộc kinh tế (mà mình đã đề cập trong bài <span style="color: #0000ff;">**[xin giảm thuế do có người phụ thuộc](http://tomonivj.jp/tim-hieu-ve-thu-tuc-xin-giam-thue-cho-nguoi-di-lam-%E6%89%B6%E9%A4%8A%E6%8E%A7%E9%99%A4%E7%94%B3%E8%AB%8B/)**</span> trước đó )</span>
 
-<span style="font-size: 12pt; color: #000000;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Chế độ cho phép vợ có mức thu nhập dưới mức quy định- sẽ được hưởng miễn phí các chế độ </span><span style="font-size: 12pt; color: #000000;">bảo hiểm theo bảo hiểm xã hội của chồng (保険扶養, đọc là ほけんふよう)</span>
+<span class="icon_size" style="font-size: 12pt; color: #000000;">![✔](https://s.w.org/images/core/emoji/2.2.1/svg/2714.svg)　Chế độ cho phép vợ có mức thu nhập dưới mức quy định- sẽ được hưởng miễn phí các chế độ </span><span style="font-size: 12pt; color: #000000;">bảo hiểm theo bảo hiểm xã hội của chồng (保険扶養, đọc là ほけんふよう)</span>
 
 <span style="font-size: 12pt; color: #000000;">　Mới nghe qua mọi người sẽ dễ tưởng nhầm 2 chế độ này là một, tức là cứ vợ ko đi làm chính thức thì sẽ tự động được hưởng cả 2 chế độ này, nhưng ko phải vậy. Có **3 “bức tường”** về thu nhập mà các chị em phải nhớ khi đi baito, đó là mức **<span style="color: #ff0000;">100 man</span>**, **<span style="color: #ff0000;">103 man</span>** và <span style="color: #ff0000;">**130 man**</span> (**<span style="color: #0000ff;">106 man</span>**). Ba bước tường này tương đương với các mức thu nhập được miễn giảm thuế-bảo hiểm mà các chị em được hưởng.  
 </span>
@@ -41,7 +41,7 @@ Mục lục:
 
 <div class="sub-heading"><span style="font-size: 12pt; color: #000000;"><span style="color: #0000ff;">**<span style="color: #ff6600;">TRÊN 100 MAN: PHÁT SINH THUẾ THỊ DÂN</span>**</span></span></div>
 
-<span style="font-size: 12pt; color: #000000;"> Khi thu nhập 1 năm của bạn trên 100 man <span style="color: #ff0000;">**![➡](https://s.w.org/images/core/emoji/2.2.1/svg/27a1.svg) **</span>phát sinh nghĩa vụ đóng thuế thị dân　(住民税） cho bản thân.</span>
+<span class="icon_size" style="font-size: 12pt; color: #000000;"> Khi thu nhập 1 năm của bạn trên 100 man <span style="color: #ff0000;">**![➡](https://s.w.org/images/core/emoji/2.2.1/svg/27a1.svg) **</span>phát sinh nghĩa vụ đóng thuế thị dân　(住民税） cho bản thân.</span>
 
 <span style="font-size: 12pt; color: #993300; font-family: tahoma,arial,helvetica,sans-serif;">**[Đọc thêm về thuế thị dân của Nhật tại đây](http://tomonivj.jp/cham-dong-thue-thi-dan-thi-co-xin-duoc-visa-khong/)**</span>
 
@@ -49,7 +49,7 @@ Mục lục:
 
 <div class="sub-heading"><span style="font-size: 12pt; color: #ff6600;">**TRÊN 103 MAN: PHÁT SINH THUẾ THU NHẬP**</span></div>
 
-<span style="font-size: 12pt; color: #000000;">   Khi thu nhập 1 năm của bạn trên 103 man<span style="color: #ff0000;"> **![➡](https://s.w.org/images/core/emoji/2.2.1/svg/27a1.svg)**</span> phát sinh thêm cả nghĩa vụ đóng thuế thu nhập (所得税, đọc là しょとくぜい) cho bản thân. Và đương nhiên, do khoản thu nhập này lớn hơn 100 man, nên bạn cũng sẽ phải đóng cả thuế thị dân đã được đề cập tới ở trên.  
+<span class="icon_size" style="font-size: 12pt; color: #000000;">   Khi thu nhập 1 năm của bạn trên 103 man<span style="color: #ff0000;"> **![➡](https://s.w.org/images/core/emoji/2.2.1/svg/27a1.svg)**</span> phát sinh thêm cả nghĩa vụ đóng thuế thu nhập (所得税, đọc là しょとくぜい) cho bản thân. Và đương nhiên, do khoản thu nhập này lớn hơn 100 man, nên bạn cũng sẽ phải đóng cả thuế thị dân đã được đề cập tới ở trên.  
 </span>
 
 <span style="font-size: 12pt; color: #000000;">   Đồng thời bạn sẽ **ko đủ điều kiện để đăng ký phụ thuộc giảm trừ thuế cho chồng**.</span>
@@ -59,13 +59,13 @@ Mục lục:
 
 <span class="mark_yellow" style="color: #000000;"><span style="font-size: 12pt;">_※Khoản này tính total thu nhập từ 1/1 ~ 31/12 và ko tính gộp tiền đi lại (交通費) vào._</span></span>
 
-> <span style="font-size: 12pt; color: #000000;"><span style="color: #0000ff;"> ✤</span>**_  Ngoài ra, đối với các gia đình có con nhỏ đang học nhà trẻ công, tiền học được tính theo thuế của bố mẹ <span style="color: #ff0000;">![➡](https://s.w.org/images/core/emoji/2.2.1/svg/27a1.svg)</span> thuế của bố mẹ tăng kéo theo tiền học của con cũng tăng._**</span>
+> <span style="font-size: 12pt; color: #000000;"><span style="color: #0000ff;"> ✤</span>**_  Ngoài ra, đối với các gia đình có con nhỏ đang học nhà trẻ công, tiền học được tính theo thuế của bố mẹ <span class="icon_size" style="color: #ff0000;">![➡](https://s.w.org/images/core/emoji/2.2.1/svg/27a1.svg)</span> thuế của bố mẹ tăng kéo theo tiền học của con cũng tăng._**</span>
 
-<span style="font-size: 12pt; color: #000000;">   Như vậy, thu nhập của bạn tăng thêm 3 man, nhưng thực tế, tiền thuế + tiền học có thể tăng nhiều hơn mức đó<span style="color: #ff0000;"> **![➡](https://s.w.org/images/core/emoji/2.2.1/svg/27a1.svg) **</span>thu nhập thức tế thực chất là giảm.</span>
+<span style="font-size: 12pt; color: #000000;">   Như vậy, thu nhập của bạn tăng thêm 3 man, nhưng thực tế, tiền thuế + tiền học có thể tăng nhiều hơn mức đó<span class="icon_size" style="color: #ff0000;"> **![➡](https://s.w.org/images/core/emoji/2.2.1/svg/27a1.svg) **</span>thu nhập thức tế thực chất là giảm.</span>
 
 <div class="sub-heading"><span style="color: #ff6600;">**<span style="font-size: 12pt;">TRÊN 130 MAN: KHÔNG ĐƯỢC THEO BẢO HIỂM CỦA CHỒNG</span>**</span></div>
 
-<span style="font-size: 12pt; color: #000000;">  Khi thu nhập của bạn <span style="color: #ff0000;">**(tính gộp cả tiền đi lại 交通費)**</span> trên 130 man/năm <span style="color: #ff0000;">**![➡](https://s.w.org/images/core/emoji/2.2.1/svg/27a1.svg) **</span>bạn sẽ **ko được hưởng chế độ bảo hiểm theo bảo hiểm của chồng nữa** mà sẽ phải tự đóng bảo hiểm quốc dân (国民健康保険：こくみんけんこうほけん）.</span>
+<span style="font-size: 12pt; color: #000000;">  Khi thu nhập của bạn <span style="color: #ff0000;">**(tính gộp cả tiền đi lại 交通費)**</span> trên 130 man/năm <span class="icon_size" style="color: #ff0000;">**![➡](https://s.w.org/images/core/emoji/2.2.1/svg/27a1.svg) **</span>bạn sẽ **ko được hưởng chế độ bảo hiểm theo bảo hiểm của chồng nữa** mà sẽ phải tự đóng bảo hiểm quốc dân (国民健康保険：こくみんけんこうほけん）.</span>
 
 <span style="font-size: 12pt; color: #000000;">　　Số tiền bảo hiểm này trung bình khoảng **30 man/ năm**, một con số rất lớn.</span>
 
