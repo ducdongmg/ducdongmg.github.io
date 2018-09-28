@@ -17,7 +17,7 @@ Dưới đây là một vài link hữu ích
 
 
 ### Appium
-
+ - [server args](http://appium.io/docs/en/writing-running-appium/server-args/)
  - [Start server from Java](http://www.automationtestinghub.com/3-ways-to-start-appium-server-from-java/)
  - [Start server from Java 2](https://github.com/appium/java-client/blob/master/docs/The-starting-of-an-app-using-Appium-node-server-started-programmatically.md#fyi)
   - [Running multiple Appium Server for parallel execution](https://nishantverma.gitbooks.io/appium-for-android/running_multiple_appium_server_for_parallel_execut.html)
