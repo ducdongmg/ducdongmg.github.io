@@ -10,20 +10,18 @@ tag: [php]
 So sánh tốc ký trong PHP
 ========================
 
-Có thể bạn đã biết một số toán tử so sánh trong PHP. Những thứ như mối mọt `?:`, liên kết rỗng `??`và những người `<=>`điều hành tàu vũ trụ . Nhưng bạn có thực sự biết chúng hoạt động như thế nào không? Việc hiểu các toán tử này giúp bạn sử dụng chúng nhiều hơn, dẫn đến cơ sở mã sạch hơn.
+Có thể bạn đã biết một số toán tử so sánh trong PHP. Những thứ như ternary `?:`, the null coalescing `??` và the spaceship `<=>` . Nhưng bạn có thực sự biết chúng hoạt động như thế nào không? Việc hiểu các toán tử này giúp bạn sử dụng chúng nhiều hơn, dẫn đến codebase sạch hơn.
 
 Trước khi tìm hiểu sâu về từng toán tử, đây là tóm tắt về những gì mỗi toán tử làm:
 
-*   Các [nhà điều hành ternary](#ternary-operator) được sử dụng để rút ngắn nếu / cấu trúc khác
-*   Các [nhà điều hành coalescing rỗng](#null-coalescing-operator) được sử dụng để cung cấp các giá trị mặc định thay vì null
-*   Các [nhà điều hành tàu vũ trụ](#spaceship-operator) được sử dụng để so sánh hai giá trị
+*   Các [toán tử  ternary](#ternary-operator) được sử dụng để rút ngắn nếu / cấu trúc khác
+*   Các [toán tử  coalescing rỗng](#null-coalescing-operator) được sử dụng để cung cấp các giá trị mặc định thay vì null
+*   Các [toán tử  tàu vũ trụ](#spaceship-operator) được sử dụng để so sánh hai giá trị
 
-[![quảng cáo qua Carbon](https://cdn4.buysellads.net/uu/1/41369/1551199029-Adobe_Stock_260x200-2.jpg)](https://srv.carbonads.net/ads/click/x/GTND42Q7F6SIV5QJCEB4YKQMF6AILK3JF6SITZ3JCWAIL5QLCKAIP23KFTYIPK7LCE7DEK3WCK7IK27MCEYD45QKC6BIL5QUFT7DVK3EHJNCLSIZ?segment=placement:stitcherio;)[Ưu đãi trong thời gian có hạn: Nhận 10 hình ảnh Adobe Stock miễn phí.](https://srv.carbonads.net/ads/click/x/GTND42Q7F6SIV5QJCEB4YKQMF6AILK3JF6SITZ3JCWAIL5QLCKAIP23KFTYIPK7LCE7DEK3WCK7IK27MCEYD45QKC6BIL5QUFT7DVK3EHJNCLSIZ?segment=placement:stitcherio;)[quảng cáo qua Carbon](http://carbonads.net/?utm_source=stitcherio&utm_medium=ad_via_link&utm_campaign=in_unit&utm_term=carbon)
-
-[#](#ternary-operator) Toán tử bậc ba
+[#](#ternary-operator) Toán tử  ternary
 -------------------------------------
 
-Toán tử bậc ba là cách viết tắt của `if {} else {}`cấu trúc. Thay vì viết thế này:
+Toán tử ternary là cách viết tắt của cấu trúc `if {} else {}`. Thay vì viết thế này:
 
     if ($condition) {
         $result = 'foo' 
@@ -31,11 +29,11 @@ Toán tử bậc ba là cách viết tắt của `if {} else {}`cấu trúc. Tha
         $result = 'bar'
     }
 
-Bạn có thể viết cái này:
+Bạn có thể viết thế này:
 
     $result = $condition ? 'foo' : 'bar';
 
-Nếu `$condition`giá trị này là `true`, toán hạng bên trái sẽ được gán cho `$result`. Nếu điều kiện được đánh giá là `false`, thì tay phải sẽ được sử dụng.
+Nếu giá trị `$condition` là `true`, thì toán hạng bên trái sẽ được gán cho `$result`. Nếu là `false`, thì toán hạng bên phải sẽ được sử dụng.
 
 Thực tế thú vị: tên _toán tử bậc ba_ thực sự có nghĩa là "một toán tử hoạt động trên ba toán hạng". Một _toán hạng_ là một thuật ngữ dùng để chỉ các bộ phận cần thiết của một biểu thức. Toán tử bậc ba là toán tử duy nhất trong PHP yêu cầu ba toán hạng: điều kiện, `true`và `false`kết quả. Tương tự, cũng có các toán tử nhị phân và đơn phân. Bạn có thể đọc thêm về nó [ở đây](http://php.net/manual/en/language.operators.php) .
 
@@ -75,7 +73,7 @@ Tôi tin rằng điều đúng đắn cần làm là tránh tất cả các toá
 
 Hơn nữa, như PHP 7.4, việc sử dụng các cụm từ có chuỗi không có dấu ngoặc sẽ [không được dùng nữa](/blog/new-in-php-74#left-associative-ternary-operator-deprecation-rfc) .
 
-[#](#null-coalescing-operator) Nhà điều hành liên kết Null
+[#](#null-coalescing-operator) toán tử  liên kết Null
 ----------------------------------------------------------
 
 Bạn đã xem qua [bảng so sánh các loại](http://php.net/manual/en/types.comparisons.php) trước đó chưa? Toán tử liên kết null có sẵn kể từ PHP 7.0. Nó tương tự như toán tử bậc ba, nhưng sẽ hoạt động giống như `isset`trên toán hạng bên trái thay vì chỉ sử dụng giá trị boolean của nó. Điều này làm cho toán tử này đặc biệt hữu ích cho mảng và gán giá trị mặc định khi một biến không được đặt.
@@ -168,10 +166,10 @@ Trong ví dụ này, `$parameters['property']`sẽ được đặt thành `'defa
         $parameters['property'] = $parameters['property'] ?? 'default';
     }
 
-[#](#spaceship-operator) Nhà điều hành tàu vũ trụ
+[#](#spaceship-operator) toán tử  tàu vũ trụ
 -------------------------------------------------
 
-Nhà điều hành tàu vũ trụ, trong khi có một cái tên khá kỳ lạ, có thể rất hữu ích. Đó là một toán tử được sử dụng để so sánh. Nó sẽ luôn luôn trở lại một trong ba giá trị: `0`, `-1`hoặc `1`.
+toán tử  tàu vũ trụ, trong khi có một cái tên khá kỳ lạ, có thể rất hữu ích. Đó là một toán tử được sử dụng để so sánh. Nó sẽ luôn luôn trở lại một trong ba giá trị: `0`, `-1`hoặc `1`.
 
 `0`sẽ được trả về khi cả hai toán hạng bằng nhau, `1`khi toán hạng bên trái lớn hơn và `-1`khi toán hạng bên phải lớn hơn. Hãy xem một ví dụ đơn giản:
 
