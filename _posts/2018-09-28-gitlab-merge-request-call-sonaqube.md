@@ -1,15 +1,14 @@
 ---
 layout: single
 title:  "Gọi sonarQube khi tạo merge request trên Gitlab"
-desc: "Gọi sonarQube khi tạo merge request trên Gitlab"
-excerpt: "Gọi sonarQube khi tạo merge request trên Gitlab"
-keywords: "selenium, selenide, appium"
-categories: [selenium]
-tag: [selenium]
+desc: "SonarQube tự động check code khi tạo merge request trên GitLab"
+keywords: "SonarQube, gitlab, automatic"
+categories: [automatic]
+tag: [automatic]
 ---
 
 
-GitLabマージリクエストをSonarQubeで自動レビュー
+SonarQube tự động check code khi tạo merge request trên GitLab
 ===============================
 
 GitLabのマージリクエストをSonarQube Scannerで静的コード解析し結果をマージリクエストのコメントとして投稿するためのメモ。
