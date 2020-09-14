@@ -14,10 +14,8 @@ Chúng tôi muốn đơn giản hóa cách thức những người đóng góp n
 
 Đọc bài viết và xem hướng dẫn có thể giúp ích, nhưng có điều gì tốt hơn là thực sự làm những thứ trong môi trường thực hành? 
 Dự án này nhằm mục đích cung cấp hướng dẫn & đơn giản hóa cách người mới bắt đầu đóng góp đầu tiên của họ. 
-Nếu bạn đang muốn đóng góp đầu tiên của mình, hãy làm theo các bước từ trang https://github.com/firstcontributions/first-contributions
+Nếu bạn đang muốn đóng góp đầu tiên của mình, hãy làm theo các bước từ trang https://github.com/firstcontributions/first-contributions/blob/master/translations/README.vn.md 
 
-
-
-
+Nếu bạn muốn đọc version gốc bằng tiếng anh thì truy cập vào https://github.com/firstcontributions/first-contributions
 
 <div style="text-align: right">Theo <a href="https://github.com/firstcontributions/first-contributions">firstcontributions</a></div>
