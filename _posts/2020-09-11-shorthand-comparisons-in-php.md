@@ -207,7 +207,7 @@ Tất nhiên, so sánh ngày tháng chỉ là một ví dụ, nhưng là một v
 
 ### [#](#sort-functions) Sắp xếp các chức năng
 
-Một công dụng tuyệt vời cho toán tử này là sắp xếp các mảng. Có khá [nhiều cách](http://php.net/manual/en/array.sorting.php) để sắp xếp một mảng trong PHP và một số phương pháp này cho phép một hàm sắp xếp do người dùng xác định. Chức năng này có để so sánh hai yếu tố, và trở lại `1`, `0`hoặc `-1`dựa trên vị trí của họ.
+Một công dụng tuyệt vời cho toán tử này là sắp xếp các mảng. Có khá [nhiều cách](http://php.net/manual/en/array.sorting.php) để sắp xếp một mảng trong PHP và một số phương pháp này cho phép một hàm sắp xếp do người dùng xác định. Chức năng này có để so sánh hai yếu tố, và trở lại `1`, `0` hoặc `-1` dựa trên vị trí của họ.
 
 Một trường hợp sử dụng tuyệt vời cho người điều hành tàu vũ trụ!
 
@@ -226,5 +226,9 @@ Một trường hợp sử dụng tuyệt vời cho người điều hành tàu 
     });
     
     // $array = [6, 5, 3, 1];
+
+### Other
+ - [What's the Difference Between ?? and ?: in PHP?](https://www.designcise.com/web/tutorial/whats-the-difference-between-null-coalescing-operator-and-ternary-operator-in-php)
+
 
 <div style="text-align: right">Theo <a href="https://stitcher.io/blog/shorthand-comparisons-in-php">stitcher.io</a></div>
