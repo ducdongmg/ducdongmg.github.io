@@ -504,7 +504,7 @@ Ngay cả khi PyPy luôn đi sau CPython một vài phiên bản Python, nó đ�
 
 #### Ghi chú
 
-Trang web của Trung tâm Tốc độ Pypy là một nơi tuyệt vời để xem PyPy so với CPython ( [http://speed.pypy.org/](http://speed.pypy.org/) ) như thế nào .
+Trang web của speed Pypy là một nơi tuyệt vời để xem PyPy so với CPython ( [http://speed.pypy.org/](http://speed.pypy.org/) ) như thế nào .
 
 Tuy nhiên, nếu chương trình của bạn sử dụng phần mở rộng C, bạn sẽ cần phải biên dịch lại chúng cho PyPy và đó có thể là một vấn đề. Đặc biệt, nếu các nhà phát triển khác duy trì một số tiện ích mở rộng mà bạn đang sử dụng.
 
