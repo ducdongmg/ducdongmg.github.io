@@ -38,6 +38,7 @@ tag: [bookmark, blog]
 ### OSS
  - [How to Contribute to Open Source TypeScript Projects](https://www.sitepoint.com/open-source-typescript/)
  - [Translate javascript](https://javascript.info/translate)
+ - [Translate vuejs](https://github.com/vuejs/vuejs.org)
 
 #### Chrome extensions
   - [Xây dựng chrome extension với vue](https://www.sitepoint.com/build-vue-chrome-extension/)
@@ -58,3 +59,6 @@ tag: [bookmark, blog]
 
 ### Schools
  - [learn javascript](https://gitconnected.com/learn/javascript)
+ 
+### Radio FM
+ - [ajito](https://ajito.fm/58/)
