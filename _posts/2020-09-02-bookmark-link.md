@@ -21,9 +21,13 @@ tag: [bookmark, blog]
  - [How to Use Deno's Built-in Tools](https://www.sitepoint.com/deno-built-in-tools/)
  - [Xây dựng microservices với deno, reno và postgresql](https://www.sitepoint.com/building-microservices-with-deno-reno-postgresql/)
 
+#### Node
+ - [The Node.js Event Loop: A Developer's Guide to Concepts & Code](https://www.sitepoint.com/node-js-event-loop-guide/)
+
 #### React
 - [15 React Interview Questions with Solutions](https://www.sitepoint.com/react-interview-questions-solutions/)
 - [How to Create an Ecommerce Site with React](https://www.sitepoint.com/how-to-create-an-ecommerce-site-with-react/)
+- [React with TypeScript: Best Practices](https://www.sitepoint.com/react-with-typescript-best-practices/)
 
 #### Vue
  - [How to Replace jQuery with Vue](https://www.sitepoint.com/replace-jquery-vue/)
@@ -31,9 +35,8 @@ tag: [bookmark, blog]
 
 #### Tools
   - [10 Must-have VS Code Extensions for JavaScript Developers](https://www.sitepoint.com/vs-code-extensions-javascript-developers/)
-
   - [Not docker, use vessel for Laravel](https://vessel.shippingdocker.com/docs/docker-usage/)
-
+  - [Start New Projects Faster: 10 Scaffolding Web Dev Tools](https://www.sitepoint.com/start-new-projects-faster/)
 
 ### OSS
  - [How to Contribute to Open Source TypeScript Projects](https://www.sitepoint.com/open-source-typescript/)
@@ -41,24 +44,32 @@ tag: [bookmark, blog]
  - [Translate vuejs](https://github.com/vuejs/vuejs.org)
 
 #### Chrome extensions
-  - [Xây dựng chrome extension với vue](https://www.sitepoint.com/build-vue-chrome-extension/)
+ - [Xây dựng chrome extension với vue](https://www.sitepoint.com/build-vue-chrome-extension/)
 
-  - [Build a Chrome Extension to Streamline Your Workflow](https://www.sitepoint.com/build-a-chrome-extension/)
+ - [Build a Chrome Extension to Streamline Your Workflow](https://www.sitepoint.com/build-a-chrome-extension/)
 
 
 ### PM
 
  - [Product Manager vs. Product Marketing Manager: What's the Difference?](https://productmanagerhq.com/difference-between-product-manager-and-product-marketing-manager/)
+ - [オブジェクト指向と10年戦ってわかったこと](https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e)
+ - [ソフトウェア要件の優先度](https://note.com/sudatakashi/n/nd4e3fdfb78aa)
+ - [開発優先度をどう決めているか](https://www.google.com/search?q=%E9%96%8B%E7%99%BA%E5%84%AA%E5%85%88%E5%BA%A6%E3%82%92%E3%81%A9%E3%81%86%E6%B1%BA%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B&rlz=1C1GCEU_jaJP821JP821&oq=%E9%96%8B%E7%99%BA%E5%84%AA%E5%85%88%E5%BA%A6%E3%82%92%E3%81%A9%E3%81%86%E6%B1%BA%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B&aqs=chrome..69i57.975j0j1&sourceid=chrome&ie=UTF-8)
+ - [工数の計算方法がわかる｜かんたん計算問題](https://www.seplus.jp/dokushuzemi/fe/fenavi/easy_calc/manhour/)
 
-  - [ソフトウェア要件の優先度](https://note.com/sudatakashi/n/nd4e3fdfb78aa)
-  - [開発優先度をどう決めているか](https://www.google.com/search?q=%E9%96%8B%E7%99%BA%E5%84%AA%E5%85%88%E5%BA%A6%E3%82%92%E3%81%A9%E3%81%86%E6%B1%BA%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B&rlz=1C1GCEU_jaJP821JP821&oq=%E9%96%8B%E7%99%BA%E5%84%AA%E5%85%88%E5%BA%A6%E3%82%92%E3%81%A9%E3%81%86%E6%B1%BA%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B&aqs=chrome..69i57.975j0j1&sourceid=chrome&ie=UTF-8)
-
-
- ### Language
+### Language
   - [Từ trái nghĩa trong tiếng Nhật](http://morningjapan.com/hoc-tieng-nhat/tu-vung-tieng-nhat-trai-nghia/)
 
 ### Schools
- - [learn javascript](https://gitconnected.com/learn/javascript)
+  - [learn javascript](https://gitconnected.com/learn/javascript)
  
-### Radio FM
+#### Radio FM
  - [ajito](https://ajito.fm/58/)
+
+### Personal
+#### Portfolios
+ - [Why Developers Should Design Their Own Niche Portfolio Sites](https://www.sitepoint.com/why-developers-should-design-their-own-niche-portfolio-sites/)
+
+#### Target
+ - [絶対に目標を達成する３つのステップとは](https://www.getgamba.com/guide/archives/2927/)
+ - [目標達成のためのポイントとは？目標達成できる人の特徴と挫折しやすい人の原因も解説](https://townwork.net/magazine/life/52823/)
