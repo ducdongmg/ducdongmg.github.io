@@ -9,7 +9,6 @@ tag: [bookmark, blog]
 
  Tôi rất hay đọc các bài viết kỹ thuật và có rất nhiều bài viết hay tôi muốn lưu trữ lại. Nếu có time, tôi sẽ dịch và post lên dần
 
-- [Deno](http)
 ### Javascript
 - [9 tricks hay Javascript 2019](https://viblo.asia/p/9-tricks-hay-javascript-2019-maGK7kvaKj2)
 
@@ -32,6 +31,10 @@ tag: [bookmark, blog]
 #### Vue
  - [How to Replace jQuery with Vue](https://www.sitepoint.com/replace-jquery-vue/)
  - [sample for vue with design pattern](https://www.google.com/search?rlz=1C1GCEU_jaJP821JP821&ei=CgFDX_mpBcuYr7wP9Z6NkAo&q=sample+for+vue+with+design+pattern&oq=sample+for+vue+with+defsign+pattern&gs_lcp=CgZwc3ktYWIQDFAAWABg6dqtAmgAcAB4AIABAIgBAJIBAJgBAKoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwj51vC0wrLrAhVLzIsBHXVPA6IQ4dUDCAw)
+ - [Vue.jsのツボとコツがゼッタイにわかる本](https://www.shuwasystem.co.jp/book/b470844.html)
+ - [Vue.js入門 基礎から実践アプリケーション開発まで](https://gihyo.jp/book/2018/978-4-297-10091-9)
+ - [Nuxt.js ビギナーズガイド](https://nuxt-beginners-guide.elevenback.jp)
+ - [Udemy（超Vue.js 2 完全パック - もう他の教材は買わなくてOK！ (Vue Router, Vuex含む)）](https://www.udemy.com/course/vue-js-complete-guide)
 
 #### Tools
   - [10 Must-have VS Code Extensions for JavaScript Developers](https://www.sitepoint.com/vs-code-extensions-javascript-developers/)
@@ -45,12 +48,16 @@ tag: [bookmark, blog]
 
 #### Chrome extensions
  - [Xây dựng chrome extension với vue](https://www.sitepoint.com/build-vue-chrome-extension/)
-
  - [Build a Chrome Extension to Streamline Your Workflow](https://www.sitepoint.com/build-a-chrome-extension/)
 
-
+### Architecture 
+#### Web Architecture
+ - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+ - [Điều gì sẽ xảy ra từ khi nhập một tên miền vào trình duyệt đến khi trang được hiển thị?](https://viblo.asia/p/dieu-gi-se-xay-ra-tu-khi-nhap-mot-ten-mien-vao-trinh-duyet-den-khi-trang-duoc-hien-thi-4P856vpA5Y3)
+ - [Giải thích đơn giản về Web Caching bằng việc đi mua sữa](https://viblo.asia/p/giai-thich-don-gian-ve-web-caching-bang-viec-di-mua-sua-Do754MOXKM6)
+ - [APIの仕様は開発フローの最初に決める「楽楽勤怠」の開発担当がたどり着いたバックエンドとフロントエンドを仲よくさせる方法](https://logmi.jp/tech/articles/323306)
+ - [Web Caching Explained by Buying Milk at the Supermarket](https://www.freecodecamp.org/news/web-caching-explained-by-buying-milk-at-the-supermarket-2ba6133ca4ed/)
 ### PM
-
  - [Product Manager vs. Product Marketing Manager: What's the Difference?](https://productmanagerhq.com/difference-between-product-manager-and-product-marketing-manager/)
  - [オブジェクト指向と10年戦ってわかったこと](https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e)
  - [ソフトウェア要件の優先度](https://note.com/sudatakashi/n/nd4e3fdfb78aa)
@@ -69,7 +76,17 @@ tag: [bookmark, blog]
 ### Personal
 #### Portfolios
  - [Why Developers Should Design Their Own Niche Portfolio Sites](https://www.sitepoint.com/why-developers-should-design-their-own-niche-portfolio-sites/)
+ - [5 Features to Make Your Web Developer Portfolio Stand Out](https://www.sitepoint.com/5-features-to-make-your-web-developer-portfolio-stand-out/)
 
 #### Target
  - [絶対に目標を達成する３つのステップとは](https://www.getgamba.com/guide/archives/2927/)
  - [目標達成のためのポイントとは？目標達成できる人の特徴と挫折しやすい人の原因も解説](https://townwork.net/magazine/life/52823/)
+
+#### Resources
+ - [Better Explained](https://betterexplained.com/archives/)
+ 
+#### Webapp
+ - [htdb](https://support.hatarakudb.jp/pdf/introduction_guide.pdf)
+ 
+#### Blog
+ - [How to Build a Blog with Gatsby and Netlify CMS – A Complete Guide](https://www.freecodecamp.org/news/how-to-build-a-blog-with-gatsby-and-netlify-cms/)
