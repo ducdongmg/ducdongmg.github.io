@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Cracking the Product Manager’s Interview (P1)"
-desc: "Cracking the Product Manager’s Interview (P1)"
+desc: "My first few weeks with Tiki Engineering team is hiring, hiring and continuous looking for good talents to build great products. Geeks, I would give you some bibles to read prior joining our interview."
 keywords: "pm, interview"
 categories: [pm]
 tag: [pm, interview]
