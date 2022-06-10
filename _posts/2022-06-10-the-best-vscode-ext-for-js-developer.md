@@ -1,10 +1,10 @@
 ---
 layout: single
-title:  "Cracking the Product Manager’s Interview (P1)"
-desc: "My first few weeks with Tiki Engineering team is hiring, hiring and continuous looking for good talents to build great products. Geeks, I would give you some bibles to read prior joining our interview."
-keywords: "pm, interview"
-categories: [pm]
-tag: [pm, interview]
+title:  "The best VS Code extensions for JavaScript developers"
+desc: "VS Code has grown significantly into my heart. Its ecosystem of plugins makes it a very compelling option, even compared to WebStorm or PyCharm."
+keywords: "vscode, tool"
+categories: [tool]
+tag: [vscode, tool]
 ---
 The best VS Code extensions for JavaScript developers
 =====================================================
@@ -186,6 +186,15 @@ Demo:
 Tabnine demo
 
 [Download Tabnine](https://Tabnine.com/)
+
+* * *
+
+Code Runner
+------------------
+
+Run code snippet or code file for multiple languages: C, C++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, F# (.NET Core), C# Script, C# (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran, Ring, and custom command
+
+Open the JavaScript code file in Text Editor, then use shortcut `Control+Alt+N` (or `⌃ Control+⌥ Option+N` on macOS), or press `F1` and then select/type `Run Code`, the code will run and the output will be shown in the Output Window.
 
 * * *
 
