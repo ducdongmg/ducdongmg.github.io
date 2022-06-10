@@ -1,0 +1,24 @@
+{
+	"blog template": {
+		"prefix": "blogtpl",
+		"body": [
+		  "---",
+		  "layout: single",
+		  "title:  \"Blog title \"",
+		  "desc: \"some description...\"",
+		  "keywords: \"aaa, bbb\"",
+		  "categories: [aaa]",
+		  "tag: [aaa, bbb]",
+		  "---",
+		  "",
+		  "Title....",
+		  "=====================================================",
+		  "",
+		  "content ...",
+		  "",
+		  "<div style=\"text-align: right\">Theo <a href=\"xxx\">xxx</a></div>",
+		  ""
+		],
+		"description": "blog template"
+	  }
+}
