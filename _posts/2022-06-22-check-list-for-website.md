@@ -43,4 +43,4 @@ There is a rich landscape of tools, frameworks and CMSes that greatly increase y
 
 Cool, now we are done!
 
-<div style="text-align: right">andreasbergqvist <a href="https://dev.to/andreasbergqvist/web-site-checklist-for-developers-11ff">xxx</a></div>
+<div style="text-align: right">andreasbergqvist <a href="https://dev.to/andreasbergqvist/web-site-checklist-for-developers-11ff">dev.to</a></div>
