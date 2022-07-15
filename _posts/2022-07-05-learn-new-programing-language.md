@@ -22,7 +22,7 @@ một lượng kiến thức cơ bản mà thôi.
 Do đó các bạn hay gặp phải vấn đề là:
  - Không biết ngôn ngữ có hỗ trợ giải quyết vấn đề đó
  - Do chưa có kinh nghiệm nên không biết cách code cho thích hợp tùy vào từng trường hợp
- - code rườm rà, dài dòng
+ - Code rườm rà, dài dòng
 
 và còn nhiều vấn đề khác.
 
@@ -32,21 +32,18 @@ hoặc ít khi dùng đến thì các bạn cũng sẽ khó nhớ. Và sẽ tố
 gọi là tạm được để sử dụng.
 
 **Vậy chúng ta có những vấn đề sau:**
- - không biết ngôn ngữ có hỗ trợ hàm đó
- - không biết trường hợp nào dùng cho hợp lý
- - làm cách nào để giải quyết vấn đề tối ưu
+ - Không biết ngôn ngữ có hỗ trợ hàm đó
+ - Không biết trường hợp nào dùng cho hợp lý
+ - Làm cách nào để giải quyết vấn đề tối ưu
 
 mà nguyên nhân sâu sa là không đủ kinh nghiệm thực chiến
 
 
-**cách giải quyết là tăng kinh nghiệm thực chiến lên **
-càng code nhiều, càng giải quyết nhiều vấn đề thì các bạn sẽ nhớ và quen cách dùng
+**Cách giải quyết là tăng kinh nghiệm thực chiến lên**
 
-kết hợp với kinh nghiệm từ các developer khác để biết cách giải quyết nào tốt và chúng ta có thể học từ nó.
+Càng code nhiều, càng giải quyết nhiều vấn đề thì các bạn sẽ nhớ và quen cách sử dụng ngôn ngữ, kết hợp với kinh nghiệm từ các developer khác để biết cách giải quyết nào tốt và chúng ta có thể học từ nó. Và chúng ta có thể thực hiện đề đó trên codewar
 
-và chúng ta có thể thực hiện đề đó trên codewar
-
-#### codewar
+### codewar
 Tuy không hỗ trợ tiếng Việt nhưng các bạn không quen dùng tiếng anh có thể dùng addon google translate để chuyển sang tiếng Việt.
 
 [Trang web](https://www.codewars.com/kata/latest) có rất nhiều challenge (gọi là kata), các bạn có thể lọc từ dễ đến khó dựa vào kyu từ 8kyu đến 1kyu (zero to hero)
@@ -64,8 +61,7 @@ hãy cố gắng dành thời gian giải ít nhất 1 bài toán mỗi ngày (t
 Nếu bạn thích game có thể thử thách mình bằng cách viết code cho game trên codingame.com
 
 
-ngoài ra còn có các trang web tương tự mà bạn có thêm tham khảo tại [đây](https://itguru.vn/blog/20-trang-thi-viet-code-va-thu-thach-danh-cho-lap-trinh-vien/)
+Ngoài ra còn có các trang web tương tự mà bạn có thêm tham khảo tại [đây](https://itguru.vn/blog/20-trang-thi-viet-code-va-thu-thach-danh-cho-lap-trinh-vien/)
 
- hãy chọn cho mình 1 nơi để luyện tập, quan trọng là luyện thật nhiều, tần suất liên tục
- bạn sẽ có dc điều bạn muốn trong thời gian ngắn.
+ Hãy chọn cho mình 1 nơi để luyện tập, quan trọng là luyện thật nhiều, tần suất liên tục, bạn sẽ có dc điều bạn muốn trong thời gian ngắn.
  
