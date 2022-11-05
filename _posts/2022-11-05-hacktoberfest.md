@@ -2,9 +2,9 @@
 layout: single
 title:  "Giới thiệu hacktoberfest "
 desc: ""
-keywords: "japanese"
-categories: [japanese]
-tag: [japanese]
+keywords: "event"
+categories: [event]
+tag: [event]
 ---
 
 Giới thiệu hacktoberfest
