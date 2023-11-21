@@ -21,12 +21,12 @@ Chuỗi hướng dẫn rèn AutoGPT chính thức
 
 *   Phần 1: [AutoGPT Forge: Hướng dẫn toàn diện cho bước đầu tiên của bạn](/autogpt-forge-a-comprehensive-guide-to-your-first-steps-a1dfdf46e3b4)
 *   Phần 2: [AutoGPT Forge: Bản thiết kế của một đặc vụ AI](/autogpt-forge-the-blueprint-of-an-ai-agent-75cd72ffde6)
-*   Phần 3: [AutoGPT Forge: Tương tác với Đại lý của bạn](/autogpt-forge-interacting-with-your-agent-1214561b06b)
+*   Phần 3: [AutoGPT Forge: Tương tác với cộng sự của bạn](/autogpt-forge-interacting-with-your-agent-1214561b06b)
 *   Phần 4: [AutoGPT Forge: Chế tạo logic tác nhân thông minh](/autogpt-forge-crafting-intelligent-agent-logic-bc5197b14cb4)
 
 Hướng dẫn cộng đồng
 ===================
 
-*   [Tạo Trợ lý nghiên cứu được hỗ trợ bởi đại lý với Auto-GPT-Forge](https://lablab.ai/t/autogpt-tutorial-creating-a-research-assistant-with-auto-gpt-forge)
+*   [Tạo Trợ lý nghiên cứu được hỗ trợ bởi cộng sự với Auto-GPT-Forge](https://lablab.ai/t/autogpt-tutorial-creating-a-research-assistant-with-auto-gpt-forge)
 
 <div style="text-align: right">Theo <a href="https://aiedge.medium.com/autogpt-forge-e3de53cc58ec">Craig Swift</a></div>
