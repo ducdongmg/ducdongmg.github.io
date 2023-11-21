@@ -19,10 +19,10 @@ Kho lưu trữ GitHub chính thức của chúng tôi cung cấp cơ sở mã h�
 Chuỗi hướng dẫn rèn AutoGPT chính thức
 ======================================
 
-*   Phần 1: [AutoGPT Forge: Hướng dẫn toàn diện cho bước đầu tiên của bạn](/autogpt-forge-a-comprehensive-guide-to-your-first-steps-a1dfdf46e3b4)
-*   Phần 2: [AutoGPT Forge: Bản thiết kế của một đặc vụ AI](/autogpt-forge-the-blueprint-of-an-ai-agent-75cd72ffde6)
-*   Phần 3: [AutoGPT Forge: Tương tác với cộng sự của bạn](/autogpt-forge-interacting-with-your-agent-1214561b06b)
-*   Phần 4: [AutoGPT Forge: Chế tạo logic tác nhân thông minh](/autogpt-forge-crafting-intelligent-agent-logic-bc5197b14cb4)
+*   Phần 1: [AutoGPT Forge: Hướng dẫn toàn diện cho bước đầu tiên của bạn](/2023-11-20-autoGPT-part1-a-comprehensive-guide.md)
+*   Phần 2: [AutoGPT Forge: Bản thiết kế của một đặc vụ AI](/2023-11-21-autoGPT-part2-the-blueprint-of-an-ai-agent.md)
+*   Phần 3: [AutoGPT Forge: Tương tác với cộng sự của bạn](/2023-11-22-autoGPT-part3-interacting-with-your-agent.md)
+*   Phần 4: [AutoGPT Forge: Chế tạo logic tác nhân thông minh](/2023-11-23-autoGPT-part4-crafting-intelligent-agent-logic.md)
 
 Hướng dẫn cộng đồng
 ===================
