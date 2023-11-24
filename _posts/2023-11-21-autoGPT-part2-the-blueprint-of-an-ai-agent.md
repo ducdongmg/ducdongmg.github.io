@@ -16,7 +16,7 @@ Xin chào các bạn tiên phong của biên giới AI!
 
 Nếu bạn đã đến đây, rất có thể bạn đã bị lỗi AI cắn, mong muốn khai thác sức mạnh đáng kinh ngạc của Mô hình ngôn ngữ lớn (LLM) để xây dựng các tác nhân thông minh của riêng bạn, thường được gọi là AutoGPT. Bạn có nhớ cảm giác hồi hộp khi chúng ta thiết lập dự án đầu tiên trong phần hướng dẫn ban đầu không? Thôi, thắt dây an toàn nhé, vì mọi thứ sắp trở nên thú vị hơn rồi!
 
-Trong hướng dẫn này — [phần tiếp theo của cuộc phiêu lưu AI của chúng ta](/2023-11-20-autoGPT-part1-a-comprehensive-guide.md) — chúng ta sẽ bắt đầu cuộc hành trình vào chính trái tim của một đặc vụ AI. Hãy tưởng tượng bóc từng lớp củ hành, nhưng thay vì nước mắt, lại có vô số kiến ​​thức chờ đợi ở mỗi lớp. Chúng ta sẽ khám phá mạng lưới các thành phần phức tạp giúp các tác nhân này được đánh dấu, tham gia chuyến tham quan có hướng dẫn về cấu trúc dự án của AutoGPT Forge đáng kính và vâng, hãy quay trở lại các rãnh mã hóa để nâng cao chức năng từng bước.
+Trong hướng dẫn này — [phần tiếp theo của cuộc phiêu lưu AI của chúng ta](/ai/autoGPT-part1-a-comprehensive-guide) — chúng ta sẽ bắt đầu cuộc hành trình vào chính trái tim của một đặc vụ AI. Hãy tưởng tượng bóc từng lớp củ hành, nhưng thay vì nước mắt, lại có vô số kiến ​​thức chờ đợi ở mỗi lớp. Chúng ta sẽ khám phá mạng lưới các thành phần phức tạp giúp các tác nhân này được đánh dấu, tham gia chuyến tham quan có hướng dẫn về cấu trúc dự án của AutoGPT Forge đáng kính và vâng, hãy quay trở lại các rãnh mã hóa để nâng cao chức năng từng bước.
 
 Vào thời điểm chúng tôi kết thúc, bạn sẽ không chỉ có một đại lý do LLM hỗ trợ đang hoạt động; bạn sẽ có một chiếc vượt qua bài kiểm tra “ghi tệp” cần thiết, một minh chứng cho năng lực ngày càng tăng của bạn trong thế giới phát triển AI.
 
@@ -143,6 +143,6 @@ Nếu hướng dẫn này là một cuộc hành trình, hãy coi nó như một
 
 Nhưng hãy nhớ, mỗi đỉnh núi đều là đáy của một cuộc phiêu lưu khác. Sau khi nắm bắt được các khía cạnh lý thuyết, đã đến lúc chuyển từ bản thiết kế sang thực tế. Giờ đây, nền tảng đã được đặt ra, các bước tiếp theo của chúng tôi liên quan đến việc thổi hồn vào những khái niệm này, biến các dòng mã thành tác nhân thông minh, phản hồi nhanh.
 
-Gửi tới tất cả các nhà phát triển đại lý mới chớm nở ngoài kia, hãy chuẩn bị cho [giai đoạn tiếp theo trong chuyến thám hiểm của chúng tôi](/2023-11-22-autoGPT-part3-interacting-with-your-agent.md) — thời gian thực hành! Cho đến lúc đó, hãy giữ cho ngọn lửa AI luôn cháy sáng và không ngừng khám phá.
+Gửi tới tất cả các nhà phát triển đại lý mới chớm nở ngoài kia, hãy chuẩn bị cho [giai đoạn tiếp theo trong chuyến thám hiểm của chúng tôi](/ai/autoGPT-part3-interacting-with-your-agent) — thời gian thực hành! Cho đến lúc đó, hãy giữ cho ngọn lửa AI luôn cháy sáng và không ngừng khám phá.
 
 <div style="text-align: right">Theo <a href="https://aiedge.medium.com/autogpt-forge-the-blueprint-of-an-ai-agent-75cd72ffde6">Craig Swift</a></div>

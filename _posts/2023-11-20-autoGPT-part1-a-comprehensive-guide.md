@@ -16,11 +16,11 @@ Chào mừng bạn đến với Hướng dẫn bắt đầu! Hướng dẫn này
 
 Đây là phần 1 của loạt bài hướng dẫn về cách sử dụng cách xây dựng Tác nhân AI của riêng bạn bằng AutoGPT Forge.
 
-Phần 2: [AutoGPT Forge: Bản thiết kế của một đặc vụ AI](/2023-11-21-autoGPT-part2-the-blueprint-of-an-ai-agent.md)
+Phần 2: [AutoGPT Forge: Bản thiết kế của một đặc vụ AI](/ai/autoGPT-part2-the-blueprint-of-an-ai-agent)
 
-Phần 3: [AutoGPT Forge: Tương tác với Đại lý của bạn](/2023-11-22-autoGPT-part3-interacting-with-your-agent.md)
+Phần 3: [AutoGPT Forge: Tương tác với Đại lý của bạn](/ai/autoGPT-part3-interacting-with-your-agent)
 
-Phần 4: [AutoGPT Forge: Chế tạo logic tác nhân thông minh](/2023-11-23-autoGPT-part4-crafting-intelligent-agent-logic.md)
+Phần 4: [AutoGPT Forge: Chế tạo logic tác nhân thông minh](/ai/autoGPT-part4-crafting-intelligent-agent-logic)
 
 Phần 1: Tìm hiểu lò rèn
 =======================
@@ -148,6 +148,6 @@ Trong khám phá hôm nay, chúng tôi đã đề cập đến những điều c
 Các bước tiếp theo: Xây dựng và nâng cao đại lý của bạn
 =======================================================
 
-Với bộ nền tảng, giờ đây bạn đã sẵn sàng xây dựng và nâng cao đại lý của mình, khám phá các chức năng khác nhau và cải thiện hiệu suất của nó. Hướng [dẫn tiếp theo](/2023-11-21-autoGPT-part2-the-blueprint-of-an-ai-agent.md) sẽ xem xét cấu trúc của một tác nhân và cách thêm một số chức năng cơ bản.
+Với bộ nền tảng, giờ đây bạn đã sẵn sàng xây dựng và nâng cao đại lý của mình, khám phá các chức năng khác nhau và cải thiện hiệu suất của nó. Hướng [dẫn tiếp theo](/ai/autoGPT-part2-the-blueprint-of-an-ai-agent) sẽ xem xét cấu trúc của một tác nhân và cách thêm một số chức năng cơ bản.
 
 <div style="text-align: right">Theo <a href="https://aiedge.medium.com/autogpt-forge-a-comprehensive-guide-to-your-first-steps-a1dfdf46e3b4">Craig Swift</a></div>
