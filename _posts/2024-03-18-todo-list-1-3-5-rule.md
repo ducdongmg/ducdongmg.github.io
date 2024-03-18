@@ -66,13 +66,16 @@ Như câu nói '' [Ăn ếch](https://lifehacker.com/eat-the-frog-first-thing-in
 
 Ngoài ra, các nhiệm vụ quan trọng chiếm nhiều thời gian và nguồn lực nhất, do đó, việc hoàn thành chúng trước tiên sẽ giúp giải phóng thời gian và nguồn lực cho chúng.
 
-
 Cuối cùng, **điều quan trọng là phải linh hoạt** . Các nhiệm vụ và nghĩa vụ không mong đợi thường phát sinh và khó có thể phân loại vào khuôn khổ 1-3-5.
 
-Cũng có thể có những lúc bạn không hoàn thành được một nhiệm vụ nào trong ngày. Trong những trường hợp như vậy, **bạn không nên tự trách mình hay tỏ ra nghiêm khắc** .
+Có những ngày bạn sẽ không thể hoàn thành tất cả các mục trong danh sách công việc của mình, và đó là hoàn toàn bình thường. Trong những trường hợp như vậy, **bạn không nên tự trách mình hay tỏ ra nghiêm khắc** .
 
-Thay vào đó, điều quan trọng là phải ưu tiên và hoàn thành một khối lượng công việc nhất định **mỗi ngày, thay vì bị choáng ngợp bởi số lượng việc bạn phải** làm .
+Thay vào đó, điều quan trọng là phải ưu tiên và hoàn thành một khối lượng công việc nhất định **mỗi ngày, thay vì bị choáng ngợp bởi số lượng việc bạn phải** làm. Đừng để cảm giác thất bại hoặc áp lực làm bạn mất tập trung vào những gì thực sự quan trọng.
 
 Nếu bạn còn việc gì chưa hoàn thành, **hãy ghi nó vào danh sách việc cần làm cho ngày hôm sau và tiếp tục tiến về phía trước** .
+
+### Kết luận
+
+Quy tắc 1-3-5 là một công cụ hữu ích để giúp bạn quản lý thời gian và năng suất công việc một cách hiệu quả. Bằng cách chia nhỏ công việc và ưu tiên chúng dựa trên mức độ quan trọng, bạn có thể tạo ra một lịch trình làm việc cân đối và linh hoạt. Hãy nhớ rằng, mục tiêu cuối cùng không phải là hoàn thành mọi việc, mà là hoàn thành những việc quan trọng nhất.
 
 <div style="text-align: right">Theo <a href="https://www.lifehacker.jp/article/2403-make-a-better-to-do-list-1-3-5-rule/">lifehacker</a></div>
